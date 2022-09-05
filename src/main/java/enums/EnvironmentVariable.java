@@ -1,0 +1,11 @@
+package enums;
+
+public enum EnvironmentVariable {
+  BROWSER,
+  BASE_URL,
+  TIMEOUT,
+  MAIN_USER_EMAIL,
+  MAIN_USER_PASSWORD,
+  SECONDARY_USER_EMAIL,
+  SECONDARY_USER_PASSWORD
+}
